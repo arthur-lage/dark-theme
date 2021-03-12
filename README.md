@@ -4,7 +4,7 @@
 
 Using a dark theme can increase your device battery time, and it is also better for human eyes.
 
-[Image 1](https://github.com/arthur-lage/dark-theme/blob/main/assets/Screenshot_5.png)
+![Image 1](https://github.com/arthur-lage/dark-theme/blob/main/assets/Screenshot_5.png)
 
 # What technologies were used in the project?
 
